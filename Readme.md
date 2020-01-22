@@ -7,3 +7,5 @@ utilizando novamente os comandos
 esc
 shif+:
 wq
+
+aprendendo os comandos do git
